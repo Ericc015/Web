@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\models\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\models\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\carmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\carmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\carmodel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\carmodel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\carmodel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\carmodel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\carmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\carmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\services\\implementations\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\services\\implementations\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\services\\interfaces\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\services\\interfaces\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\services\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\services\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\repositories\\implementations\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\repositories\\implementations\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\repositories\\interfaces\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\repositories\\interfaces\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\models\\viewmodels\\carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\models\\viewmodels\\carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\migrations\\20251218105749_addcarimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\migrations\\20251218105749_addcarimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|d:\\lap web n\u00E2ng cao\\web\\autopartsstore\\autopartsstore\\migrations\\20251218092814_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779272E3-ADD4-4D88-A00F-FFE11CC09DE3}|AutoPartsStore\\AutoPartsStore.csproj|solutionrelative:autopartsstore\\migrations\\20251218092814_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251218105749_AddCarImage.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Migrations\\20251218105749_AddCarImage.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Migrations\\20251218105749_AddCarImage.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Migrations\\20251218105749_AddCarImage.cs",
+              "RelativeToolTip": "AutoPartsStore\\Migrations\\20251218105749_AddCarImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:57:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAKQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:36:52.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Car\\Index.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:13:35.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Models\\Car.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\Car.cs",
+              "RelativeToolTip": "AutoPartsStore\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:18:28.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AutoPartsStore\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:22:08.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Models\\DbSeeder.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\DbSeeder.cs",
+              "RelativeToolTip": "AutoPartsStore\\Models\\DbSeeder.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:31:19.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Car\\Create.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Car\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:14:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Create.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\CarModel\\Create.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Create.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\CarModel\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:16:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\CarModel\\Index.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Index.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\CarModel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:16:10.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\CarModel\\Delete.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Delete.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\CarModel\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:28:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:34:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Car\\Edit.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Edit.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Car\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:14:34.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Car\\Delete.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Car\\Delete.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Car\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:15:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:12:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:12:04.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:11:25.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:09:00.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Views\\CarModel\\Edit.cshtml",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Views\\CarModel\\Edit.cshtml",
+              "RelativeToolTip": "AutoPartsStore\\Views\\CarModel\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:17:31.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarModelController.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Controllers\\CarModelController.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Controllers\\CarModelController.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Controllers\\CarModelController.cs",
+              "RelativeToolTip": "AutoPartsStore\\Controllers\\CarModelController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:49:09.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "AutoPartsStore\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:47:57.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Controllers\\CarController.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Controllers\\CarController.cs",
+              "RelativeToolTip": "AutoPartsStore\\Controllers\\CarController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:49:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarModelService.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Implementations\\CarModelService.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Services\\Implementations\\CarModelService.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Implementations\\CarModelService.cs",
+              "RelativeToolTip": "AutoPartsStore\\Services\\Implementations\\CarModelService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:42:57.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICarModelService.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Interfaces\\ICarModelService.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Services\\Interfaces\\ICarModelService.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Interfaces\\ICarModelService.cs",
+              "RelativeToolTip": "AutoPartsStore\\Services\\Interfaces\\ICarModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:42:39.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Repositories\\Implementations\\BrandRepository.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeToolTip": "AutoPartsStore\\Repositories\\Implementations\\BrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:35:38.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Implementations\\CarService.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Services\\Implementations\\CarService.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Implementations\\CarService.cs",
+              "RelativeToolTip": "AutoPartsStore\\Services\\Implementations\\CarService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:42:13.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Services\\Interfaces\\ICarService.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "AutoPartsStore\\Services\\Interfaces\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:41:55.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Implementations\\BrandService.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Services\\Implementations\\BrandService.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Implementations\\BrandService.cs",
+              "RelativeToolTip": "AutoPartsStore\\Services\\Implementations\\BrandService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:41:33.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Program.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Program.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Program.cs",
+              "RelativeToolTip": "AutoPartsStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:24:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Services\\Interfaces\\IBrandService.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeToolTip": "AutoPartsStore\\Services\\Interfaces\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:41:11.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CarModelRepository.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Implementations\\CarModelRepository.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Repositories\\Implementations\\CarModelRepository.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Implementations\\CarModelRepository.cs",
+              "RelativeToolTip": "AutoPartsStore\\Repositories\\Implementations\\CarModelRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:39:42.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICarModelRepository.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "RelativeToolTip": "AutoPartsStore\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:39:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Repositories\\Implementations\\CarRepository.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeToolTip": "AutoPartsStore\\Repositories\\Implementations\\CarRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:38:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "AutoPartsStore\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:37:52.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CarModelVm.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\ViewModels\\CarModelVm.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Models\\ViewModels\\CarModelVm.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\ViewModels\\CarModelVm.cs",
+              "RelativeToolTip": "AutoPartsStore\\Models\\ViewModels\\CarModelVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:37:27.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeToolTip": "AutoPartsStore\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:34:55.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20251218092814_InitDB.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Migrations\\20251218092814_InitDB.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Migrations\\20251218092814_InitDB.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Migrations\\20251218092814_InitDB.cs",
+              "RelativeToolTip": "AutoPartsStore\\Migrations\\20251218092814_InitDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:28:14.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\appsettings.json",
+              "RelativeDocumentMoniker": "AutoPartsStore\\appsettings.json",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\appsettings.json",
+              "RelativeToolTip": "AutoPartsStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T09:22:36.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Models\\CarModel.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\CarModel.cs",
+              "RelativeToolTip": "AutoPartsStore\\Models\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:15:15.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "AutoPartsStore\\Models\\Brand.cs",
+              "ToolTip": "D:\\Lap Web N\u00E2ng Cao\\Web\\AutoPartsStore\\AutoPartsStore\\Models\\Brand.cs",
+              "RelativeToolTip": "AutoPartsStore\\Models\\Brand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:14:43.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<AutoPartsStore.Models.ViewModels.CarModelVm>
+
+@{
+    ViewData["Title"] = "Car Models";
+}
+
+<h2>Car Models List</h2>
+<p><a asp-action="Create" class="btn btn-primary">Create New</a></p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Car Model Name</th>
+            <th>Brand Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CarModelName</td>
+                <td>@item.BrandName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

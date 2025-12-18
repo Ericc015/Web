@@ -1,0 +1,47 @@
+﻿@model IEnumerable<AutoPartsStore.Models.Car>
+
+@{
+    ViewData["Title"] = "Danh sách Xe";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h5>Quản lý Xe (Cars)</h5>
+        <a asp-action="Create" class="btn btn-primary float-right" style="float: right;">+ Thêm xe mới</a>
+    </div>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th style="width: 150px;">Hình ảnh</th>
+                    <th>Tên xe</th>
+                    <th>Mã dòng xe (Model ID)</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.ImageUrl))
+                            {
+                                <img src="@item.ImageUrl" alt="@item.Name" style="width: 120px; height: auto; border-radius: 8px; border: 1px solid #ddd;" />
+                            }
+                            else
+                            {
+                                <span class="text-muted">Không có ảnh</span>
+                            }
+                        </td>
+                        <td style="vertical-align: middle; font-weight: bold;">@item.Name</td>
+                        <td style="vertical-align: middle;">@item.CarModelId</td>
+                        <td style="vertical-align: middle;">
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
